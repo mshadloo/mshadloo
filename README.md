@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Maryam Shadloo. I have a M.Sc in machine learning and a P.h.D in theoretical computer science.
+- 👋 Hi, I’m Maryam Shadloo. I have a MSc in machine learning and a PhD in theoretical computer science.
 - 👀 I’m interested in Machine/Deep Learning, Continuous/Combinatorial Optimization, Approximation Algorithms and Big Data.
 - 💞️ I’m actively seeking full-time ML engineer and data scientist job opportunities.
 - 📫 How to reach me:
-  - http://graduatestudent.ucmerced.edu/mshadloo/
   - https://www.linkedin.com/in/maryam-shadloo/
 
 <!---
